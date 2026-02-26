@@ -18,7 +18,7 @@ A high-performance, single-screen local Wi-Fi network scanner built in **Flutter
 - **Tech:** Dart, `network_info_plus`, `dart_ping`, Riverpod.
 - **What it does:** Uses an optimized asynchronous ping-sweeping engine to scan 255 IP addresses simultaneously on a local subnet, identifying active devices in real-time without blocking the UI thread.
   
-![1fe0fc8052ba4d11ac7929dfea7836ac](https://github.com/user-attachments/assets/0135c309-93a7-4526-994c-d189a1ef36b4)
+  ![bb8e0846c4ff4de09ab496290be3a9d1](https://github.com/user-attachments/assets/e2927fe5-532f-4c02-ade3-9bb16b306507)
 
 #### 2. Safe-Mode Manhua Tracker
 A strictly offline-first, metadata-only tracking app for manga and manhua.
