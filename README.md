@@ -25,7 +25,8 @@ A strictly offline-first, metadata-only tracking app for manga and manhua.
 - **Tech:** Flutter, Clean Architecture, **GraphQL** (AniList API), **Isar** (NoSQL local database).
 - **What it does:** Allows users to search for titles via GraphQL, filter out  content entirely at the query level, and save reading progress to a lightning-fast local Isar database.
   
-![1fe0fc8052ba4d11ac7929dfea7836ac](https://github.com/user-attachments/assets/6570ea4a-7206-4128-b685-a7eaedfc2698)
+![fee47b6d3c3a4c5c9b5bb2a217996254](https://github.com/user-attachments/assets/22d6d41d-4edf-405a-9452-7dac988a0deb)
+
 
 #### 3. AI Storyteller
 An immersive, dynamically generated storytelling application.
