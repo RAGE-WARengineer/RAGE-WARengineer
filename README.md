@@ -28,13 +28,4 @@ An immersive, dynamically generated storytelling application.
 - **Tech:** Flutter, **Gemini 2.5 Flash API**, `flutter_tts`, `flutter_animate`.
 - **What it does:** Takes user-selected genres and languages, generates cinematic micro-stories using Google's Generative AI, and seamlessly synchronizes the text with on-device Text-to-Speech playback.
 
----
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Dart, Python, SQL, Solidity
-- **Frameworks/Libraries:** Flutter, Riverpod, Pandas, Scikit-learn
-- **Databases/Data:** Isar, Hive, GraphQL, Data Warehousing (BI)
-- **Concepts:** Clean Architecture, System Security, Machine Learning
-
----
-*📫 How to reach me:* [Insert your LinkedIn URL or Email here]
